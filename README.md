@@ -1,2 +1,2 @@
-# riscoapp-backend
-Sumódulo de Backend para RiscoApp
+# Submódulo Backend de la aplicación RiscoApp
+Repositorio principal RiscoApp alojado en https://github.com/JanerTorres/RiscoApp.git
